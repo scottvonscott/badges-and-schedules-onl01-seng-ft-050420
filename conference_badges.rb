@@ -28,6 +28,6 @@ def printer (speakers)
   badges_and_room_assignments.each do |batch_of_badges|
     batch_of_badges.each do |papers|
     puts "#{papers}"
-  end
+   end
   end
 end
